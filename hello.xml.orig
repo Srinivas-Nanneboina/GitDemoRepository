@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <text>
   <para>hello world</para>
+<<<<<<< HEAD
+  <para>This is Master</para>
+  <para>Added to Master</para>
+=======
   <para>This is GitWork</para>
   <para>Added to GitWork</para>
+>>>>>>> GitWork
 </text>
